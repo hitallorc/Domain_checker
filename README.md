@@ -43,7 +43,7 @@
     <div class="container">
         <h1>Domínios Disponíveis para Venda</h1>
         <ul>
-            <li>ciox.com</li>
+            <li>ciox.com.br</li>
             <li>gestaodati.com</li>
             <li>gestaodati.com.br</li>
             <li>cnmc.com.br</li>
