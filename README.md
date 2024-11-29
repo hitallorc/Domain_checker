@@ -51,7 +51,7 @@
         </ul>
         <div class="contact">
             <p>Para adquirir estes domínios, entre em contato:</p>
-            <p>Email: <a href="mailto:hitallorc@gmail.com">contato@seusite.com</a></p>
+            <p>Email: <a href="mailto:hitallorc@gmail.com">hitallorc@gmail.com</a></p>
             <p>Telefone: (00) 1234-5678</p>
         </div>
     </div>
