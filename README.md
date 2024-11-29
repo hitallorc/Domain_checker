@@ -46,7 +46,7 @@
             <li>ciox.com</li>
             <li>gestaodati.com</li>
             <li>gestaodati.com.br</li>
-            <li>cnmc.com</li>
+            <li>cnmc.com.br</li>
             <li>exemplo5.biz</li>
         </ul>
         <div class="contact">
