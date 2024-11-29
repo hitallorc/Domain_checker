@@ -43,15 +43,15 @@
     <div class="container">
         <h1>Domínios Disponíveis para Venda</h1>
         <ul>
-            <li>exemplo1.com</li>
-            <li>exemplo2.net</li>
-            <li>exemplo3.org</li>
-            <li>exemplo4.info</li>
+            <li>ciox.com</li>
+            <li>gestaodati.com</li>
+            <li>gestaodati.com.br</li>
+            <li>cnmc.com</li>
             <li>exemplo5.biz</li>
         </ul>
         <div class="contact">
             <p>Para adquirir estes domínios, entre em contato:</p>
-            <p>Email: <a href="mailto:contato@seusite.com">contato@seusite.com</a></p>
+            <p>Email: <a href="mailto:hitallorc@gmail.com">contato@seusite.com</a></p>
             <p>Telefone: (00) 1234-5678</p>
         </div>
     </div>
