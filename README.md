@@ -47,7 +47,7 @@
             <li>gestaodati.com</li>
             <li>gestaodati.com.br</li>
             <li>cnmc.com.br</li>
-            <li>exemplo5.biz</li>
+            <li>criptors.com.br</li>
         </ul>
         <div class="contact">
             <p>Para adquirir estes domínios, entre em contato:</p>
